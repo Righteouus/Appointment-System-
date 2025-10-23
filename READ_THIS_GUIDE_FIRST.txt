@@ -1,0 +1,1 @@
+First you need to put the barangay file inside the appointment System file then put inside the src/images folder so you can able to run the full system.If i put the barangay file inside then upload it here in github i cant upload because its to much files.
